@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @janinewhitley
 - 👀 I’m interested in full-stack web development.
-- 🌱 I’m currently learning Javascript (React, Angular, Node) & Python (Django & Flask) libraries, algorithms and data structures.
+- 🌱 I’m currently learning Javascript (React, Angular, Node) & Python (Django & Flask), algorithms and data structures.
 - 💞️ I’m looking to collaborate on small projects.
 - 📫 How to reach me: email me @ jaymurcimusic@gmail.com.
 
